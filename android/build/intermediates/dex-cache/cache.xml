@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_f06160297f68d8d56648cfebc1554cd9d65aaadc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-27.0.2_3654f397cfeee0eb6fffa4b2b200a83346e39264.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-core/2.2.9/c18aa432e1830aba56d861494f131a34a0b8ce69/mapbox-java-core-2.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c18aa432e1830aba56d861494f131a34a0b8ce69">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/mapbox-java-core-2.2.9_d46f6d226a89502cbce56fc16869118517098a6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/PlaygroundMapBox/mapbox-react-native-mapbox-gl/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b6f6e19864ef6c4da3358bb79d0c93e161fc7ed0">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/PlaygroundMapBox-mapbox-react-native-mapbox-gl-unspecified_b8d320f30918c1bd63d5273d0f79361001fc61b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.2_e2c0321eb86ac780e2a2376692f285d96a41b43a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-services/2.2.9/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9adc627fc283339f926c4e10d82a42bc39e0d77f">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.mapbox.mapboxsdk-mapbox-android-services-2.2.9_bd33ff1d5cbfb44bba268bbd0745524bb801e5bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_6221bba1363cdfadee814368e496b5ff3628410a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.mapzen.android/lost/3.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d35b57785e805406538454943d0ed0ba97f6e653">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.mapzen.android-lost-3.0.4_4b0f527aec9fd98b2dd42e8e843544c6fb7f2b5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/5.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="438f51911f480ff9779488dbcbcdb0da039eb01c">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.mapbox.mapboxsdk-mapbox-android-sdk-5.3.1_a847edf7c75229c1922f01b3f50a0f7cac15d3d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-plugin-locationlayer/0.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b1cad667a0222bae157d31a08af83400e470a05f">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.mapbox.mapboxsdk-mapbox-android-plugin-locationlayer-0.3.0_6df3f89804c6a09094782e451a8fe55b0cc95ddf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.6.0/81887458b69ddc32722df7e4c35235fd74e6a8ba/logging-interceptor-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.6.0_5d2aeee795c3281ecac6b799aaba304598b68dd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_6d7e2e9000373ebc3f8c4b96108e9a423d4ce353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_b2db63c938ac0825b09f5065de55156ef7133f1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-27.0.2_51ed4c3ba974aba5349a6d49900170ac43225dcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-27.0.2_41d6a565f6b4deeaf91f47bc916cec57a4fe747f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_146295b85de9108317b7de22abc1b6ac5dbf66b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_09260ecfdf241a3ccdbd759a957d9dcb9ebb9ee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/converter-gson-2.2.0_e9b1adad6d85e1c99a7e711b60b59ffd11841f2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_71435c1efc8c9ef454ea49b2cb07c41c4e2cdbf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.3_b84634b5cc5fa6aa0322af03693b9e9cae522010.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_ddb363850edc9734db825f5c20c105b634765db5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_83f7716bdb9a531e80d4ed694a215c9df7d0923c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_bd2e4530b16ef79ff4c4e4813cc5d5c650e37e5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_103d97f26bb1676000a603b8f1d11e073971dcc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_8917dddd1bb43a7574f9224716ce0c68cf253d22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_327c57e2e45f2a10b0d60e6b1f845c6c4bb4a302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-27.0.2_5d3367f1bef21f6d7b7debfb9ae12b1c62c8ba7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_aedc21cca9a54a790463e1753593d9b8493ce85b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-geojson/2.2.9/c53f47c9fdf762ae6fd86efd056da7a1651a0fed/mapbox-java-geojson-2.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c53f47c9fdf762ae6fd86efd056da7a1651a0fed">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/mapbox-java-geojson-2.2.9_197d42673d56c1f921a76e224a46b6c1167458d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-27.0.2_ed27c4eb5f9958c5f449ad8c4b4debd794dba64e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.jakewharton.timber/timber/4.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c4b2d07f780d8b29d39c0daf1129d544e726cc1b">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.jakewharton.timber-timber-4.6.0_ab7db074a456571565af415704df4adb28b68a14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-telemetry/2.2.9/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="612aa385190830bd6db2f01552caf3519835dc9a">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.mapbox.mapboxsdk-mapbox-android-telemetry-2.2.9_b9b8ae892d8de2e6ab7dfe9da405edf89665e0bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.1/84b4b7d1c4a238e7899972b7446c250691e65f1f/okhttp-3.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="84b4b7d1c4a238e7899972b7446c250691e65f1f">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/okhttp-3.9.1_7d83f9c36c7cd93f10c15c2afa0dd05ad8a77e15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_b99cb650ae0abf7bea2163314864b01cfa0370b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-27.0.2_ef0eabb6b4c725416eb9d6ffd48cec34778715e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/gson-2.8.0_7002149f654a133efb9622d9dce0c6544388151a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_610f58af77d724c5b030ee92a5447be82a393213.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/common-1.0.3_d885eb9a357fe0d2a2643ecd39b93354590189c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_a94146cee3717879196c7f8dace05c62d06746ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b7bd52e7b84674c67e424dde64f7b7990d7bc54">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.2_71db4d72bea72d249c340f5ab6629ee7958e6dc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-java-services/2.2.9/32099854fcd364940c562d83c1394aa917faa79b/mapbox-java-services-2.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="32099854fcd364940c562d83c1394aa917faa79b">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/mapbox-java-services-2.2.9_b0c8cf9f3cc9c29a562e56efb60e665a2842af4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-27.0.2_3c1c22e075c5bf52fc34f79e3e395bf7ef7e2012.jar" />
+    </item>
+
+</items>

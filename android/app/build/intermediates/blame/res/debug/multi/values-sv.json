@@ -1,0 +1,577 @@
+[
+    {
+        "outputFile": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 105,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 105,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endColumn": 102,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 102,
+                        "endOffset": 309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 110,
+                    "endOffset": 420
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 314,
+                        "endColumn": 110,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 425,
+                    "endColumn": 84,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 425,
+                        "endColumn": 84,
+                        "endOffset": 505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 101,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 101,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 112,
+                    "endOffset": 720
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 612,
+                        "endColumn": 112,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 725,
+                    "endColumn": 75,
+                    "endOffset": 796
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 75,
+                        "endOffset": 796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 801,
+                    "endColumn": 75,
+                    "endOffset": 872
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 75,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 877,
+                    "endColumn": 79,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 877,
+                        "endColumn": 79,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endColumn": 105,
+                    "endOffset": 1058
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 105,
+                        "endOffset": 1058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1063,
+                    "endColumn": 99,
+                    "endOffset": 1158
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1063,
+                        "endColumn": 99,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1163,
+                    "endColumn": 95,
+                    "endOffset": 1254
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 95,
+                        "endOffset": 1254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1259,
+                    "endColumn": 104,
+                    "endOffset": 1359
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1259,
+                        "endColumn": 104,
+                        "endOffset": 1359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1364,
+                    "endColumn": 101,
+                    "endOffset": 1461
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1364,
+                        "endColumn": 101,
+                        "endOffset": 1461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1466,
+                    "endColumn": 101,
+                    "endOffset": 1563
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1466,
+                        "endColumn": 101,
+                        "endOffset": 1563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1568,
+                    "endColumn": 153,
+                    "endOffset": 1717
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1568,
+                        "endColumn": 153,
+                        "endOffset": 1717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1722,
+                    "endColumn": 101,
+                    "endOffset": 1819
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1722,
+                        "endColumn": 101,
+                        "endOffset": 1819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1824,
+                    "endColumn": 182,
+                    "endOffset": 2002
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/5.3.1/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 182,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2007,
+                    "endColumn": 69,
+                    "endOffset": 2072
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/5.3.1/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 238,
+                        "endColumn": 69,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2077,
+                    "endColumn": 83,
+                    "endOffset": 2156
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/5.3.1/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endColumn": 83,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2161,
+                    "endColumn": 71,
+                    "endOffset": 2228
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/5.3.1/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 71,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2233,
+                    "endColumn": 85,
+                    "endOffset": 2314
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/5.3.1/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 464,
+                        "endColumn": 85,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2319,
+                    "endColumn": 77,
+                    "endOffset": 2392
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/5.3.1/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 77,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2397,
+                    "endColumn": 133,
+                    "endOffset": 2526
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/5.3.1/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 628,
+                        "endColumn": 133,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2531,
+                    "endColumn": 124,
+                    "endOffset": 2651
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/5.3.1/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 124,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2656,
+                    "endColumn": 166,
+                    "endOffset": 2818
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/5.3.1/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 166,
+                        "endOffset": 1049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2823,
+                    "endColumn": 116,
+                    "endOffset": 2935
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/5.3.1/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1054,
+                        "endColumn": 116,
+                        "endOffset": 1166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2940,
+                    "endColumn": 139,
+                    "endOffset": 3075
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/5.3.1/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1171,
+                        "endColumn": 139,
+                        "endOffset": 1306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3080,
+                    "endColumn": 78,
+                    "endOffset": 3154
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1824,
+                        "endColumn": 78,
+                        "endOffset": 1898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3159,
+                    "endColumn": 100,
+                    "endOffset": 3255
+                },
+                "from": {
+                    "file": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/values-sv/values-sv.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 100,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]

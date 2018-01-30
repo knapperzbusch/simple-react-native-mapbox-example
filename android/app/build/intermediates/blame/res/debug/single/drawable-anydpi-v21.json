@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/mapbox_info_icon_default.xml",
+        "source": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/5.3.1/res/drawable-anydpi-v21/mapbox_info_icon_default.xml"
+    },
+    {
+        "merged": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/mapbox_info_icon_selected.xml",
+        "source": "/Users/maximilian/Documents/Projekte/mapbox-playground/PlaygroundMapBox/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/5.3.1/res/drawable-anydpi-v21/mapbox_info_icon_selected.xml"
+    }
+]
