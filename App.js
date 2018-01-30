@@ -173,20 +173,20 @@ export default class App extends Component {
           centerCoordinate={[11.256, 43.770]}
           style={styles.container}>
 
-          <MapboxGL.ShapeSource id='te' shape={MapboxGL.geoUtils.makePoint([11.256, 43.770])}>
-            <MapboxGL.CircleLayer id='tes' style={{circleColor: 'red'}}/>
+          <MapboxGL.ShapeSource id='point1' shape={MapboxGL.geoUtils.makePoint([11.256, 43.770])}>
+            <MapboxGL.CircleLayer id='point1layer' style={{circleColor: 'red'}}/>
           </MapboxGL.ShapeSource>
 
-          <MapboxGL.ShapeSource id='test' shape={this.state.point}>
-            <MapboxGL.CircleLayer id='testc^' style={{circleColor: 'red'}}/>
+          <MapboxGL.ShapeSource id='point2' shape={this.state.point}>
+            <MapboxGL.CircleLayer id='point2layer' style={{circleColor: 'red'}}/>
           </MapboxGL.ShapeSource>
 
           <MapboxGL.ShapeSource id='smileyFaceSource' shape={this.state.face}>
             <MapboxGL.FillLayer id='smileyFaceFill' style={layerStyles.smileyFace} />
           </MapboxGL.ShapeSource>
 
-          <MapboxGL.ShapeSource id='12' shape={this.state.route}>
-            <MapboxGL.LineLayer id='123' style={{lineColor:'red'}} />
+          <MapboxGL.ShapeSource id='line1' shape={this.state.route}>
+            <MapboxGL.LineLayer id='linelayer1' style={{lineColor:'red'}} />
           </MapboxGL.ShapeSource>
 
         </MapboxGL.MapView>
